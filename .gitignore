@@ -1,0 +1,5 @@
+node_modules
+.env
+dist
+.DS_Storegit init
+Remove-Item -Recurse -Force client\.git -ErrorAction SilentlyContinue
